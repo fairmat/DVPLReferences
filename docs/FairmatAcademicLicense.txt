@@ -1,0 +1,62 @@
+FAIRMAT ACADEMIC LICENSE
+
+The company Fairmat srl, head office Verona via  Stradone San Fermo, n. 21, registered  at the Chamber of Commerce of Verona,  n° 362792     of Business Register, fiscal code  and Vat number 03754840233, hereinafter referred to as “Company”,  grants the following license to individuals hereinafter referred to as “User”:
+
+1. OBJECT OF THE LICENCE AND ATTACHMENTS
+1.1. In accordance with the terms and conditions defined below, the Company concedes in licence to User the shareware software Fairmat (hereinafter referred to as “Software”) described in the website http://www.fairmat.com, with the related documentation for use (hereinafter referred to as “documentation”). 
+1.2. The attachments form an integral part of this licence.
+1.3. The present licence grants the use of the Software for a period a one year free of charge. (Renewable).
+1.4. The present licence grants use of some of the commercial version features and the possibility of extending it through plug-ins. Please visit the web page http://www.fairmat.com/features-comparison in order to verify the further available features of the commercial version.
+1.5. In relation to purposes of use, the Software may be used only for personal purposes (that is for studying, researching and teaching) but not for commercial uses (or for profit). In particular, the purpose of the Software availability under this licence is to allow development and research without the pursuit of commercial purposes. The only revenue sharing coming from the plug-in production shall not be considered pursuit of commercial purpose – so it does not make up part of the commercial purposes as considered in this agreement -.
+1.6. For research purposes as permitted by  the present licence, please be advised that in case of reproduction, demonstration, publication or spreading, the User will have to mention Fairmat  (that means: Fairmat, a community  solution for financial valuation and risk assessment– www.fairmat.com). 
+2. INSTALLATION MODE 
+2.1. At the end of the registration and acceptance phase, the User will receive his/her log-in credentials for accessing the download area.
+2.2. The Software will be made available directly through direct download in that area.  
+3. INTELLECTUAL PROPERTY AND SOFTWARE USE 
+3.1. The shareware  licence does not grant to the User any rights in source codes, and the techniques, all the algorithms and proceedings included in the Software and in the related documentation constitute confidential information owned by the Company. Therefore they cannot be used by the User for purposes other than those permitted by the present licence. 
+3.2. The User shall not totally or partially copy the Software licensed by the present licence, either as hard copy or as computers readable format, except for security reasons or operative feature, including the error corrections, within the limits of Italian Law n. 633/41. 
+3.3. The User undertakes not to modify the Software conceded in shareware licence, either to incorporate it totally or partially into other software without the Company’ s previous written authorization. 
+3.4. The User shall not distribute the Software to the public, assign or sublicense it, or authorize its free-of-charge or paid use to third parties.
+3.5. In case of violation of the previous prohibitions, the licence will be revoked to the User without the right to claim for compensation for damages. 
+4. WARRANTIES AND LIABILITY     
+4.1. The Company only warrants that the Software is able to perform the operations set forth in the technical descriptions. Also this warranty is subjected to the correct running of the process and System software and subjected to the correct System utilization by the User. 
+4.2. Before the acquisition of the present licence of use, the User must verify technical characteristics of computers assigned to the Software installation. 
+4.3. The Company is not liable to the User for any direct or indirect damages created by pre-existent latent or intervening defects or in any case suffered by the User or third parties in relation to the use or non-use of the Software, except for what is compulsorily set forth in the law. 
+5. PLUG-IN
+5.1. The Company could make available to the User some free of charge plug-ins, also developed by third parties, submitted by the present licence in the contents and the duration of the present licence, as they depend on the main Software.
+5.2.  Prior to using the plug-ins, the User must verify the technical and functional characteristics of the plug-ins and their compatibility with the operative systems and pre-installed programs. 
+5.3. In accepting these conditions, the User releases the Company from any and all liabilities resulting directly or indirectly from the use of these plug-ins.
+6. SHAREWARE LICENCE DURATION – ADHESION TO THE USE LICENCE 
+6.1. The present licence grants the use of the academic version of the Software for one year starting from the download date of the Software.
+6.2. On, or before the expiry date, the User can subscribe to the licence to use the commercial version of the Software, in accordance with the following terms and conditions (http://www.fairmat.com/commerical-version), in order to obtain one or more use licences of the Software. Alternatively, he / she can renew the shareware licence for free, by following the instructions provided by the Software just before the expiry date. 
+7. RIGHT TO WITHDRAW THE LICENCE
+7.1. The Company has the right to withdraw the present licence if the User violates any one of the licence provisions. 
+7.2. The withdrawal will previously be e-mailed to User as indicated in the registration form. After the e-mail is sent, the licence will be revoked without any obligation for the Company to verify that the communication is actually delivered to the user. 
+8. TERMINATION OF THE SOFTWARE USE
+8.1. In case of termination of Software for any reasons, from now on the User releases the Company from any data or information loss or activity loss due to using the Software, and from any direct or indirect damage connected with its non-use.  
+9. NONASSIGNMENT OF LICENSE
+9.1. The user is not allowed to assign the present licence to third parties.
+10. PERSONAL DATA PROTECTION
+10.1. The parties undertake to treat the counterparty information in the total respect of the principles and dispositions of Italian legislative Decree n° 196, 30th June 2003 (Code for the protection of personal data), and to  take all the minimum security measures  as established in index “B” of this legislative Decree.
+
+2.  The User expressly declares to have read and understood the informative document (see http://www.fairmat.com/privacy-policy) in accordance with article 13 of D.Lgs. 196/2003 (Code for the protection of personal data). 
+11. DISPUTE SETTLEMENT
+1. In case of dispute, the court of Verona is exclusively competent.  
+12. FINAL TERMS
+1. The present licence repeals and substitutes any prior oral or written agreement, undertakings and negotiations between the parties relating to the present licence.
+2. The eventual nullity, cancellation or inefficacy of one or more clauses of the present licence will not affect the other ones.
+13. APPLICABLE LAW AND REFERENCE REGULATION
+1. The present licence shall be governed by and constructed under Italian law.
+2. For what is not expressively set forth the regulation applicable to the relations and concrete cases provided for the licence is valid, in particular with regard to Italian Law n. 633 of the1941 and following modifications, except to the derogations indicated in the present licence.
+
+
+
+
+
+
+
+
+
+
+
+
